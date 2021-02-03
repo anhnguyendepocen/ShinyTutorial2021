@@ -18,7 +18,7 @@ library(tidyverse)
 
  * Mike Kleinsasser, MS in Statistics
  
- * Hired as staff R programmer focused on R packages
+ * Staff R programmer focused on R packages
 
  * Aid students and faculty in R package development/maintenance 
  
@@ -39,6 +39,14 @@ library(tidyverse)
  * Workshops on various useful R packages and on R package development (dates posted in the department events emails)
  
  * Please feel free to email me at mkleinsa@umich.edu if you would like help developing an R package or are interested in a workshop topic
+ 
+## Up and coming...
+
+ * Thursday, don't miss Command Line Linux with Dan Barker
+ 
+ * Tuesday, Feb 9 - Package development
+ 
+ * Thursday, Feb 11 - Getting Git
  
 ## What will we be covering today?
 
@@ -208,5 +216,5 @@ library(tidyverse)
  
  * Challenging but excellent example to expand your Shiny and general R skills
 
- * Download the repo at: 
+ * Download the repo at: github.com/umich-biostatistics
 
